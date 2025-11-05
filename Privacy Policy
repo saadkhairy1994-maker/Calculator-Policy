@@ -1,0 +1,45 @@
+🛡️ Privacy Policy for the Calculator App
+Last Updated: [ November 5, 2025]
+
+This Privacy Policy governs the manner in which Dozza operates the Calculator mobile application ("the Service"). We are committed to protecting your privacy.
+
+1. Information We DO NOT Collect
+A. Personal Data
+
+The Calculator application does not collect, store, or share any personally identifiable information that can be used to contact or identify you (such as your name, email address, phone number, or precise location).
+
+B. Calculation Data
+
+The core functionality of the Service is to perform basic arithmetic (addition, subtraction, multiplication, division). All inputs and calculations are processed locally on your device and are not transmitted to us or any external servers.
+
+2. Information We May Access (Log Data)
+A. Non-Personal Data
+
+Like most mobile applications, we may access anonymous, non-personal data about your device and usage for the sole purpose of maintaining and improving the Service. This "Log Data" may include:
+
+Device type and operating system version.
+
+App configuration and usage statistics (e.g., how long the app was open).
+
+Crash logs and error information.
+
+This data is collected and reported in an aggregated and anonymized form, typically through standard developer tools provided by the mobile platforms (e.g., Google Play or Apple App Store), and cannot be used to identify you personally.
+
+3. Third-Party Services
+The App does not directly integrate third-party services for advertising or analytics. However, the App may utilize code and libraries provided by third parties, such as the Flutter framework itself or standard platform services (like crash reporting).
+
+Please note that the privacy policies of these external service providers may apply. We encourage you to review them.
+
+4. Security
+Since the Service does not collect or store any Personal Data, your information is entirely secure. We implement industry-standard security measures to protect any data processed locally on your device against unauthorized access or disclosure.
+
+5. Children's Privacy
+The Service is intended for a general audience and does not knowingly collect any personally identifiable information from children under the age of 13.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us:
+
+By email: [Enter Your Support Email Address]
