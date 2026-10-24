@@ -1,45 +1,72 @@
-🛡️ Privacy Policy for the Calculator App
-Last Updated: [ october 24, 2026]
+### 🛡️ Privacy Policy for AMO Cashier
 
-This Privacy Policy governs the manner in which Dozza operates the Calculator mobile application ("the Service"). We are committed to protecting your privacy.
+**Last Updated:** [October 24, 2026]
 
-1. Information We DO NOT Collect
-A. Personal Data
+This Privacy Policy governs the manner in which **AMO Cashier** ("the Service", "the Application") operates. We are committed to protecting your privacy and ensuring the security of your commercial and transaction data[2][4].
 
-The Calculator application does not collect, store, or share any personally identifiable information that can be used to contact or identify you (such as your name, email address, phone number, or precise location).
+---
 
-B. Calculation Data
+#### 1\. Information Collection and Use
 
-The core functionality of the Service is to perform basic arithmetic (addition, subtraction, multiplication, division). All inputs and calculations are processed locally on your device and are not transmitted to us or any external servers.
+**A. Business &amp; Store Details** To operate store management and point-of-sale (POS) features, the Application allows merchants to input store details, such as store name, contact phone number, email address, store location, and regional currency[5].
 
-2. Information We May Access (Log Data)
-A. Non-Personal Data
+**B. Sales, Inventory &amp; Customer Transaction Data**
 
-Like most mobile applications, we may access anonymous, non-personal data about your device and usage for the sole purpose of maintaining and improving the Service. This "Log Data" may include:
+* **Customer Information:** When issuing receipts or processing online/delivery orders, you may input customer details (such as customer name, phone number, and delivery address)[4][6].
+* **Inventory &amp; Financial Records:** Products, stock quantities, sales invoices, capital, and profit metrics are processed and stored locally on your device or managed through your configured store database[1].
 
-Device type and operating system version.
+**C. Electronic Tax Compliance Data** If you choose to enable Electronic Invoicing features (e.g., for ZATCA, ETA, FTA, ISTD, NBR, OTA, or MOF-KW), the Application securely stores the merchant tax identification number (VAT Number) and integration credentials (e.g., Client ID, Client Secret, and Private Keys) provided by you[2]. This data is strictly used to sign and generate official electronic invoices and QR codes as required by regional tax regulations[2].
 
-App configuration and usage statistics (e.g., how long the app was open).
+---
 
-Crash logs and error information.
+#### 2\. Device Permissions Required
 
-This data is collected and reported in an aggregated and anonymized form, typically through standard developer tools provided by the mobile platforms (e.g., Google Play or Apple App Store), and cannot be used to identify you personally.
+To deliver full POS and store management functionality, the Application may request the following permissions:
 
-3. Third-Party Services
-The App does not directly integrate third-party services for advertising or analytics. However, the App may utilize code and libraries provided by third parties, such as the Flutter framework itself or standard platform services (like crash reporting).
+* **Camera Access:** Used solely to scan product barcodes for quick sales processing and inventory management[3][11].
+* **Storage / Local Backup Access:** Used to generate, export, print PDF invoices, and save or restore local store backups[1][7].
 
-Please note that the privacy policies of these external service providers may apply. We encourage you to review them.
+---
 
-4. Security
-Since the Service does not collect or store any Personal Data, your information is entirely secure. We implement industry-standard security measures to protect any data processed locally on your device against unauthorized access or disclosure.
+#### 3\. Log Data and Technical Information
 
-5. Children's Privacy
-The Service is intended for a general audience and does not knowingly collect any personally identifiable information from children under the age of 13.
+Like most mobile applications, we may access anonymous, non-personal diagnostic data about your device to maintain app stability. This may include:
 
-6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+* Device model and operating system version.
+* Aggregated usage statistics and crash logs (collected via standard platform tools like Google Play Console).
 
-7. Contact Us
-If you have any questions about this Privacy Policy, please contact us:
+This technical data cannot be used to identify you, your customers, or your business personally.
 
-By email:  support@dozzax.com
+---
+
+#### 4\. Third-Party Services and Tax Integration
+
+The App does not sell or share your business data with third-party advertisers.
+
+When you activate regional **Electronic Tax Compliance**, the Application transmits signed electronic invoices directly to the merchant's designated governmental tax authority (e.g., ZATCA in Saudi Arabia, ETA in Egypt, or FTA in UAE) in accordance with your official merchant integration setup[2][10].
+
+---
+
+#### 5\. Data Security &amp; Storage
+
+All local business databases, calculation records, and offline backups are saved securely on your device[1]. We implement industry-standard encryption and security measures to protect sensitive integration keys and tax details stored within the app[2][9].
+
+---
+
+#### 6\. Children's Privacy
+
+The Service is intended for commercial business use and general audiences, and does not knowingly collect any personally identifiable information from children under the age of 13.
+
+---
+
+#### 7\. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+
+---
+
+#### 8\. Contact Us
+
+If you have any questions or feedback regarding this Privacy Policy, please contact us:
+
+* **By Email:** support@dozzax.com
